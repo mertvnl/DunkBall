@@ -2258,3 +2258,877 @@ Received Import Request.
 Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials/Animated/CFX_Anim_Triangle2_AlphaBlendedPremult.mat using Guid(4d5a52cb18e09b843887aee389016b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7bb8fec2f6cf33e8d0b8aec7c0fcaf1') in 0.035783 seconds 
   Import took 0.037845 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1.961840 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Textures/CFX_T_Smoke_4Frames.tga
+  artifactKey: Guid(3d70761f9ae377945a3aad2a3936df5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Textures/CFX_T_Smoke_4Frames.tga using Guid(3d70761f9ae377945a3aad2a3936df5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3a3b80edec672a7bddf11c7a4dae04') in 0.015884 seconds 
+  Import took 0.018078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.037561 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Explosions/CFX_SmokeExplosion.prefab
+  artifactKey: Guid(f4eccd837e38e66479c94b552a191d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Explosions/CFX_SmokeExplosion.prefab using Guid(f4eccd837e38e66479c94b552a191d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7e1089856249d926f89e90787cd26e') in 0.023514 seconds 
+  Import took 0.026144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials/Misc/CFX_Smoke_4frms.mat
+  artifactKey: Guid(3217b570b11b257469c5461f0457e5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials/Misc/CFX_Smoke_4frms.mat using Guid(3217b570b11b257469c5461f0457e5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e07f0300e175089767765a4b130910') in 0.011082 seconds 
+  Import took 0.013574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.475714 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Explosions/CFX_SmokeExplosionAlt.prefab
+  artifactKey: Guid(1b2f8e049c22af2438cac65a921271a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Explosions/CFX_SmokeExplosionAlt.prefab using Guid(1b2f8e049c22af2438cac65a921271a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2850b223a88443433b336f39ea1aa457') in 0.016238 seconds 
+  Import took 0.019074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.916414 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffs.prefab
+  artifactKey: Guid(754a7a7c55ee2ce4493a0e4079785280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffs.prefab using Guid(754a7a7c55ee2ce4493a0e4079785280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7349d7bf7da728f6d5c32775dd714615') in 0.012805 seconds 
+  Import took 0.015541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials/Animated/CFX_Anim_SmokePuff_AddSoft.mat
+  artifactKey: Guid(3638cb86feacea3458b30f86b2db4c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials/Animated/CFX_Anim_SmokePuff_AddSoft.mat using Guid(3638cb86feacea3458b30f86b2db4c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faaf7e6f4ec67aaf7f4845841f56b3e1') in 0.011535 seconds 
+  Import took 0.013776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.371572 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokeTrail.prefab
+  artifactKey: Guid(efc66b85e94732147a2cc76189fb4195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokeTrail.prefab using Guid(efc66b85e94732147a2cc76189fb4195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bcabe4df5fedcbe45fe32ddec83ac2') in 0.016347 seconds 
+  Import took 0.018950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.035879 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffsAlt+Text.prefab
+  artifactKey: Guid(b915ea55954041f40a3fd40ee1840dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffsAlt+Text.prefab using Guid(b915ea55954041f40a3fd40ee1840dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b0a2bde4a03af1bd71337764b2ec02') in 0.013107 seconds 
+  Import took 0.015815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.953389 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffsAlt.prefab
+  artifactKey: Guid(9670926e073251b4d9e7cc13c294ea9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffsAlt.prefab using Guid(9670926e073251b4d9e7cc13c294ea9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361c622015ec7e27fa0497d4cc57da9f') in 0.014802 seconds 
+  Import took 0.017405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.400857 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffs_Big.prefab
+  artifactKey: Guid(b287b69cd25b44f4fafc46daddba9419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs/Smoke/CFX_SmokePuffs_Big.prefab using Guid(b287b69cd25b44f4fafc46daddba9419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18e41e00b0a103ab5fd4793b511b7a2') in 0.012724 seconds 
+  Import took 0.016813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.562566 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_Explosion+Text NoSmoke.prefab
+  artifactKey: Guid(1b0a08f44ea1f8a4793c93cc4da89c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_Explosion+Text NoSmoke.prefab using Guid(1b0a08f44ea1f8a4793c93cc4da89c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea031e7d9f83ab257cc61ae86677299') in 0.054599 seconds 
+  Import took 0.057164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_Triangle2_Add.mat
+  artifactKey: Guid(f2af1438c1e8db744a072356bc43a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_Triangle2_Add.mat using Guid(f2af1438c1e8db744a072356bc43a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f3be9f2530137f8572d2e027c03cf2') in 0.011108 seconds 
+  Import took 0.013475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.697774 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_Explosion_B_Smoke.prefab
+  artifactKey: Guid(9b52372500fcd2345a1495ed4183ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_Explosion_B_Smoke.prefab using Guid(9b52372500fcd2345a1495ed4183ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3fbfb84a6fbbaeb9605c4e23302973') in 0.012044 seconds 
+  Import took 0.015189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_Triangle2_AlphaBlendedPremult.mat
+  artifactKey: Guid(601bc8dff269e1d4ba669d8f1f04c721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_Triangle2_AlphaBlendedPremult.mat using Guid(601bc8dff269e1d4ba669d8f1f04c721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a773a3b2e6d6bf537f4931c82d46ab9') in 0.010535 seconds 
+  Import took 0.012748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.982654 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Fire/CFXM_Fire_Breath_NoSmoke.prefab
+  artifactKey: Guid(2ad6a521d3692b547a306991823ad3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Fire/CFXM_Fire_Breath_NoSmoke.prefab using Guid(2ad6a521d3692b547a306991823ad3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050328a3a5260d2319941e936d3e42ea') in 0.013295 seconds 
+  Import took 0.015716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Fire/CFXM_Flame1_AlphaBlendPremult.mat
+  artifactKey: Guid(0c62180866c361947afb9e9c6435a639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Fire/CFXM_Flame1_AlphaBlendPremult.mat using Guid(0c62180866c361947afb9e9c6435a639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18e12033835e07b74969d27671247af') in 0.012575 seconds 
+  Import took 0.014847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.982781 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Smoke/CFXM_SmokePuffs_Big.prefab
+  artifactKey: Guid(30f3b2139dd4ab24f8332e5f2cf4c3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Smoke/CFXM_SmokePuffs_Big.prefab using Guid(30f3b2139dd4ab24f8332e5f2cf4c3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef917f8e57449b47824245be59dbe51b') in 0.012795 seconds 
+  Import took 0.015643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_SmokePuff_Add.mat
+  artifactKey: Guid(2061cfe3ba52a4a4e8e87c35a8fde37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Animated/CFXM_Anim_SmokePuff_Add.mat using Guid(2061cfe3ba52a4a4e8e87c35a8fde37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef91336c75ea4b7f6e217621a94fa1a') in 0.014280 seconds 
+  Import took 0.016630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.314357 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_SmokeExplosion.prefab
+  artifactKey: Guid(646d8ce832714ff4d9fb29973186759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/CFX Prefabs (Mobile)/Explosions/CFXM_SmokeExplosion.prefab using Guid(646d8ce832714ff4d9fb29973186759e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ee2760fbe559737cc764a98a87e0f1') in 0.012366 seconds 
+  Import took 0.014955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Misc/CFXM_Smoke_4frms.mat
+  artifactKey: Guid(0d7928d671ec5d4468a8171667aebf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX (legacy)/Materials (Mobile)/Misc/CFXM_Smoke_4frms.mat using Guid(0d7928d671ec5d4468a8171667aebf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e4db4547dc713f8c825a927da679aa') in 0.013960 seconds 
+  Import took 0.016196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.005157 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/Variants/CFXR Explosion 1 (no smoke).prefab
+  artifactKey: Guid(4f40fc272bff80040a56fe75f182c101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/Variants/CFXR Explosion 1 (no smoke).prefab using Guid(4f40fc272bff80040a56fe75f182c101) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(4f40fc272bff80040a56fe75f182c101) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/Variants/CFXR Explosion 1 (no smoke).prefab from editor
+Resuming Guid(4f40fc272bff80040a56fe75f182c101) Importer(-1,00000000000000000000000000000000) -> 20dd6bac357761b128e0eb5cce560e35 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(4f40fc272bff80040a56fe75f182c101) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/Variants/CFXR Explosion 1 (no smoke).prefab from editor
+Resuming Guid(4f40fc272bff80040a56fe75f182c101) Importer(-1,00000000000000000000000000000000) -> 20dd6bac357761b128e0eb5cce560e35 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: 'e9a2d1f78dc809f7d645c85b3604a903') in 0.007881 seconds 
+  Import took 0.010206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.663434 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Explosion Smoke 2 Solo (HDR).prefab
+  artifactKey: Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Explosion Smoke 2 Solo (HDR).prefab using Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Explosion Smoke 2 Solo (HDR).prefab from editor
+Resuming Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(-1,00000000000000000000000000000000) -> a5ff7c78823695c5f6036484fecddec5 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Explosion Smoke 2 Solo (HDR).prefab from editor
+Resuming Guid(4bda94453d2ca7444a0fff05b2d425f5) Importer(-1,00000000000000000000000000000000) -> a5ff7c78823695c5f6036484fecddec5 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: '7970f4d7e31de2c23ae6d007a01df5ed') in 0.007703 seconds 
+  Import took 0.010073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004753 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr smoke cloud x4 second color ab.mat
+  artifactKey: Guid(ec1892961c3d27347b1ed3a3cb5f854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr smoke cloud x4 second color ab.mat using Guid(ec1892961c3d27347b1ed3a3cb5f854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Cartoon FX/Remaster/Particle Ubershader': Couldn't open include file 'CFXR_SETTINGS.cginc'. at line 211
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 807
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': CGPROGRAM block does not contain #pragma vertex, #pragma fragment or #pragma surface directive, skipping at line 807
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 847
+
+Compiling Vertex program with _CFXR_DISSOLVE _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _FADING_ON
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_FORWARDBASE UNITY_PBS_USE_BRDF2
+Disabled keywords: FOG_EXP FOG_EXP2 FOG_LINEAR INSTANCING_ON SHADER_API_GLES30 SOFTPARTICLES_ON UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_EDGE_FADING _CFXR_FONT_COLORS _CFXR_LIGHTING_ALL _CFXR_LIGHTING_BACK _CFXR_LIGHTING_DIRECT _CFXR_LIGHTING_INDIRECT _CFXR_LIGHTING_WPOS_OFFSET _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_SECONDCOLOR_LERP _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _EMISSION _FLIPBOOK_BLENDING _NORMALMAP
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': CGPROGRAM block does not contain #pragma vertex, #pragma fragment or #pragma surface directive, skipping at line 847
+
+Compiling Vertex program with _CFXR_DISSOLVE _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _FADING_ON
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_FORWARDBASE UNITY_PBS_USE_BRDF2
+Disabled keywords: FOG_EXP FOG_EXP2 FOG_LINEAR INSTANCING_ON SHADER_API_GLES30 SOFTPARTICLES_ON UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_EDGE_FADING _CFXR_FONT_COLORS _CFXR_LIGHTING_ALL _CFXR_LIGHTING_BACK _CFXR_LIGHTING_DIRECT _CFXR_LIGHTING_INDIRECT _CFXR_LIGHTING_WPOS_OFFSET _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_SECONDCOLOR_LERP _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _EMISSION _FLIPBOOK_BLENDING _NORMALMAP
+Shader error in 'Cartoon FX/Remaster/Particle Ubershader': Couldn't open include file 'CFXR_SETTINGS.cginc'. at line 211
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 807
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': CGPROGRAM block does not contain #pragma vertex, #pragma fragment or #pragma surface directive, skipping at line 807
+
+Compiling Vertex program with PASS_SHADOW_CASTER SHADOWS_DEPTH _CFXR_DISSOLVE _CFXR_SINGLE_CHANNEL
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_SHADOWCASTER UNITY_PBS_USE_BRDF2
+Disabled keywords: SHADER_API_GLES30 SHADOWS_CUBE UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_DITHERED_SHADOWS_CUSTOMTEXTURE _CFXR_DITHERED_SHADOWS_ON _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _FLIPBOOK_BLENDING
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': Both vertex and fragment programs must be present in a shader snippet. Excluding it from compilation. at line 847
+
+Compiling Vertex program with _CFXR_DISSOLVE _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _FADING_ON
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_FORWARDBASE UNITY_PBS_USE_BRDF2
+Disabled keywords: FOG_EXP FOG_EXP2 FOG_LINEAR INSTANCING_ON SHADER_API_GLES30 SOFTPARTICLES_ON UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_EDGE_FADING _CFXR_FONT_COLORS _CFXR_LIGHTING_ALL _CFXR_LIGHTING_BACK _CFXR_LIGHTING_DIRECT _CFXR_LIGHTING_INDIRECT _CFXR_LIGHTING_WPOS_OFFSET _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_SECONDCOLOR_LERP _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _EMISSION _FLIPBOOK_BLENDING _NORMALMAP
+Shader warning in 'Cartoon FX/Remaster/Particle Ubershader': CGPROGRAM block does not contain #pragma vertex, #pragma fragment or #pragma surface directive, skipping at line 847
+
+Compiling Vertex program with _CFXR_DISSOLVE _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _FADING_ON
+Platform defines: SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_ENABLE_REFLECTION_BUFFERS UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_FULL_HDR UNITY_NO_CUBEMAP_ARRAY UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PASS_FORWARDBASE UNITY_PBS_USE_BRDF2
+Disabled keywords: FOG_EXP FOG_EXP2 FOG_LINEAR INSTANCING_ON SHADER_API_GLES30 SOFTPARTICLES_ON UNITY_ASTC_NORMALMAP_ENCODING UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_FULL_STANDARD_SHADER UNITY_PBS_USE_BRDF1 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_VIRTUAL_TEXTURING _ALPHABLEND_ON _ALPHAMODULATE_ON _ALPHAPREMULTIPLY_ON _ALPHATEST_ON _CFXR_ADDITIVE _CFXR_EDGE_FADING _CFXR_FONT_COLORS _CFXR_LIGHTING_ALL _CFXR_LIGHTING_BACK _CFXR_LIGHTING_DIRECT _CFXR_LIGHTING_INDIRECT _CFXR_LIGHTING_WPOS_OFFSET _CFXR_OVERLAYBLEND_A _CFXR_OVERLAYBLEND_RGB _CFXR_OVERLAYTEX_1X _CFXR_OVERLAYTEX_2X _CFXR_SECONDCOLOR_LERP _CFXR_UV2_DISTORTION _CFXR_UV_DISTORTION _CFXR_UV_DISTORTION_ADD _EMISSION _FLIPBOOK_BLENDING _NORMALMAP
+ -> (artifact id: 'db39077f9579ffe9851b1b7a7c62d352') in 0.022260 seconds 
+  Import took 0.024978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.196828 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Misc/CFXR Smoke Poof Circle Flat.prefab
+  artifactKey: Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Misc/CFXR Smoke Poof Circle Flat.prefab using Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Misc/CFXR Smoke Poof Circle Flat.prefab from editor
+Resuming Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(-1,00000000000000000000000000000000) -> 49ea88fbc1cbf6676b803306a8b4bd07 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Misc/CFXR Smoke Poof Circle Flat.prefab from editor
+Resuming Guid(b4f04d135faa2bc42b6a131603b9e813) Importer(-1,00000000000000000000000000000000) -> 49ea88fbc1cbf6676b803306a8b4bd07 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: '24839d4f4d564f357e19e0f3a5a86370') in 0.007898 seconds 
+  Import took 0.010216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.311717 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 1.prefab
+  artifactKey: Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 1.prefab using Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 1.prefab from editor
+Resuming Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(-1,00000000000000000000000000000000) -> 5131173bbecce51bd27e0ef95808d947 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 1.prefab from editor
+Resuming Guid(38b99d63cdad9994b89d14c10a8783ce) Importer(-1,00000000000000000000000000000000) -> 5131173bbecce51bd27e0ef95808d947 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: 'edaff6d86ab2dd3361179e26c85d9561') in 0.004918 seconds 
+  Import took 0.007268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.397268 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 2.prefab
+  artifactKey: Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 2.prefab using Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 2.prefab from editor
+Resuming Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(-1,00000000000000000000000000000000) -> d373d708dbf3cd2f3bcd04353a2a72db 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 2.prefab from editor
+Resuming Guid(9f51e8e68cc9b164abbf8473ed186904) Importer(-1,00000000000000000000000000000000) -> d373d708dbf3cd2f3bcd04353a2a72db 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: '579882c19f35257787d89ef78ab5b48e') in 0.007519 seconds 
+  Import took 0.009742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.089136 seconds.
+  path: Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 3.prefab
+  artifactKey: Guid(e05875e1c2e842843a233da3102d88b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 3.prefab using Guid(e05875e1c2e842843a233da3102d88b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f70d60 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(e05875e1c2e842843a233da3102d88b0) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 3.prefab from editor
+Resuming Guid(e05875e1c2e842843a233da3102d88b0) Importer(-1,00000000000000000000000000000000) -> fbd6dea055b689f766e162a04d546ce1 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff6f8f85d82 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff6f8f513a2 (Unity) ResolveArtifactV2
+0x00007ff6f8f48161 (Unity) ProduceArtifactV2
+0x00007ff6f8e96f2e (Unity) AssetDatabase::ProduceArtifact
+0x00007ff6f8e7c258 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff6f8f71129 (Unity) ImportToObjects
+0x00007ff6f8f70168 (Unity) ImportAsset
+0x00007ff6f8ed1f68 (Unity) AssetImportWorker::Import
+0x00007ff6f8f252fa (Unity) <lambda_7448d646502792db0127dc89657ec83e>::operator()
+0x00007ff6f8fc95f2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff6f8fcb750 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff6f8fceede (Unity) asio::io_service::run
+0x00007ff6f8f520bb (Unity) RunAssetImportWorkerClientV2
+0x00007ff6f8f52110 (Unity) RunAssetImporterV2
+0x00007ff6f84155b6 (Unity) Application::InitializeProject
+0x00007ff6f8dc1342 (Unity) WinMain
+0x00007ff6fac169b6 (Unity) __scrt_common_main_seh
+0x00007ffef54f7034 (KERNEL32) BaseThreadInitThunk
+0x00007ffef6922651 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(e05875e1c2e842843a233da3102d88b0) Importer(-1,00000000000000000000000000000000), Assets/ThirdPartyAssets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/CFXR Firework 3.prefab from editor
+Resuming Guid(e05875e1c2e842843a233da3102d88b0) Importer(-1,00000000000000000000000000000000) -> fbd6dea055b689f766e162a04d546ce1 
+Assertion failed on expression: 'state.state == kUpToDate'
+Assertion failed on expression: 'state.artifactID == result'
+ -> (artifact id: '41783b8f15a7cd6fd58c1eb6e9931144') in 0.007928 seconds 
+  Import took 0.010368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 402.341660 seconds.
+  path: Assets/DunkBall/Prefabs/Particles
+  artifactKey: Guid(3d08af11b14f1f04ca9dd17e987f2ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DunkBall/Prefabs/Particles using Guid(3d08af11b14f1f04ca9dd17e987f2ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217616e43d75a404c7f1ca3be4293e9b') in 0.005779 seconds 
+  Import took 0.009589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.551994 seconds.
+  path: Assets/DunkBall/Prefabs/Particles/SmokeParticle.prefab
+  artifactKey: Guid(195c5789c86cca1458ab0634254bf8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DunkBall/Prefabs/Particles/SmokeParticle.prefab using Guid(195c5789c86cca1458ab0634254bf8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22cae4fb065d8f649fa220f20d5deb88') in 0.017069 seconds 
+  Import took 0.020226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.078545 seconds.
+  path: Assets/DunkBall/Prefabs/Particles/SmokeParticle.prefab
+  artifactKey: Guid(195c5789c86cca1458ab0634254bf8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DunkBall/Prefabs/Particles/SmokeParticle.prefab using Guid(195c5789c86cca1458ab0634254bf8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc00b9fb271a972a1e26c01b7a5ff2bc') in 0.013971 seconds 
+  Import took 0.016721 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Domain Reload Profiling:
+	ReloadAssembly (916ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (750ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (278ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.1 MB.
+System memory in use after: 72.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1930.
+Total: 3.458000 ms (FindLiveObjects: 0.198500 ms CreateObjectMapping: 0.107100 ms MarkObjects: 3.130900 ms  DeleteObjects: 0.020000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Domain Reload Profiling:
+	ReloadAssembly (908ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (745ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1432 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.1 MB.
+System memory in use after: 72.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 2.647300 ms (FindLiveObjects: 0.120900 ms CreateObjectMapping: 0.036600 ms MarkObjects: 2.474100 ms  DeleteObjects: 0.014800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invalid AssetDatabase path: /Editor/EditorResources/cm_logo_sm.png. Use path relative to the project folder.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.AssetDatabase:LoadAssetAtPath<UnityEngine.Texture2D> (string)
+Cinemachine.Editor.CinemachineSettings:get_CinemachineLogoTexture () (at Library/PackageCache/com.unity.cinemachine@2.6.11/Editor/Windows/CinemachineSettings.cs:205)
+Cinemachine.Editor.CinemachineSettings:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.11/Editor/Windows/CinemachineSettings.cs:237)
+Cinemachine.CinemachineColliderPrefs:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.11/Editor/Windows/CinemachineColliderPrefs.cs:61)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.cinemachine@2.6.11/Editor/Windows/CinemachineSettings.cs line 205]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Domain Reload Profiling:
+	ReloadAssembly (940ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (784ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (258ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (205ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1579 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2080.
+Total: 2.667800 ms (FindLiveObjects: 0.129000 ms CreateObjectMapping: 0.042600 ms MarkObjects: 2.426700 ms  DeleteObjects: 0.068500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Domain Reload Profiling:
+	ReloadAssembly (934ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (768ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (239ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (292ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (205ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1580 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2083.
+Total: 2.677400 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.041400 ms MarkObjects: 2.466500 ms  DeleteObjects: 0.041500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001904 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1088ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (909ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (343ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (243ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1579 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2085.
+Total: 4.143700 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.051200 ms MarkObjects: 3.886200 ms  DeleteObjects: 0.043400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
