@@ -33,7 +33,7 @@ namespace DunkBall.Ball
             switch (swipeData.direction)
             {
                 case SwipeDirection.Up:
-                    Jump(Vector3.up + (target.position - transform.position), swipeData.swipeVelocity);
+                    Jump(Vector3.up + (target.position - transform.position).normalized, swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Down:
                     Jump(Vector3.back, swipeData.swipeVelocity);
