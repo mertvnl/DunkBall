@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DunkBall.Camera
+namespace DunkBall.CameraSystem
 {
     public class CameraController : MonoBehaviour
     {
