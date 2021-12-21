@@ -75,8 +75,8 @@ namespace DunkBall.InputSystems
                 if (firstPos.y - secondPos.y < 0)
                 {
                     swipeData.direction = SwipeDirection.Up;
-                    swipeData.swipeVelocity = 0.13f / timePassed;
-                    swipeData.swipeVelocity = Mathf.Clamp(swipeData.swipeVelocity, 0, 1.2f);
+                    swipeData.swipeVelocity = Vector2.Distance(firstPos.normalized, secondPos.normalized) * 1.5f;
+                    swipeData.swipeVelocity = Mathf.Clamp(swipeData.swipeVelocity, 0, 1f);
                 }
                 else if (firstPos.y - secondPos.y > 0)
                 {

@@ -288,7 +288,7 @@ GameObject:
   - component: {fileID: 681085251}
   - component: {fileID: 681085252}
   m_Layer: 0
-  m_Name: ScoreArea
+  m_Name: Target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -704,6 +704,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpPower: 200
   target: {fileID: 681085251}
+  h: 5
+  gravity: -9.81
 --- !u!114 &1011342397
 MonoBehaviour:
   m_ObjectHideFlags: 0
