@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DunkBall.InputSystems;
+using DunkBall.Managers;
 
 namespace DunkBall.Ball
 {
@@ -15,37 +16,46 @@ namespace DunkBall.Ball
         public InputSystem InputSystem { get { return inputSystem == null ? inputSystem = GetComponent<InputSystem>() : inputSystem; } }
         #endregion
 
+        [SerializeField] private bool isControlable;
         [SerializeField] private float jumpPower;
         [SerializeField] private Transform target;
-
-        public float h = 25;
-        public float gravity = -18;
+        [SerializeField] private float h = 5f;
+        [SerializeField] private float gravity = -9.81f;
+        [Space]
+        [SerializeField] private GameObject jumpParticlePrefab;
 
         private void OnEnable()
         {
-            InputSystem.OnSwipe.AddListener(JumpToDirection);
+            EventManager.OnLevelStarted.AddListener(() => isControlable = true);
+            InputSystem.OnSwipe.AddListener(MoveToDirection);
+            EventManager.OnGameWin.AddListener(OnWin);
         }
 
         private void OnDisable()
         {
-            InputSystem.OnSwipe.RemoveListener(JumpToDirection);
+            EventManager.OnLevelStarted.RemoveListener(() => isControlable = true);
+            InputSystem.OnSwipe.RemoveListener(MoveToDirection);
+            EventManager.OnGameWin.RemoveListener(OnWin);
         }
 
-        private void JumpToDirection(SwipeData swipeData)
+        private void MoveToDirection(SwipeData swipeData)
         {
+            if (!isControlable)
+                return;
+
             switch (swipeData.direction)
             {
                 case SwipeDirection.Up:
                     Launch(swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Down:
-                    Jump(Vector3.back, swipeData.swipeVelocity);
+                    Jump(-Camera.main.transform.forward, swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Right:
-                    Jump(Vector3.right, swipeData.swipeVelocity);
+                    Jump(Camera.main.transform.right, swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Left:
-                    Jump(Vector3.left, swipeData.swipeVelocity);
+                    Jump(-Camera.main.transform.right, swipeData.swipeVelocity);
                     break;
             }
         }
@@ -92,12 +102,22 @@ namespace DunkBall.Ball
 
         private void OnCollisionEnter(Collision collision)
         {
+            if (!isControlable)
+                return;
+
             Ground ground = collision.gameObject.GetComponent<Ground>();
 
             if (ground != null)
             {
                 ConstantJump();
+                Instantiate(jumpParticlePrefab, new Vector3(transform.position.x, ground.transform.position.y + 0.1f, transform.position.z), jumpParticlePrefab.transform.rotation);
             }
+        }
+
+        private void OnWin()
+        {
+            Rb.mass = 0.01f;
+            isControlable = false;
         }
     }
 }

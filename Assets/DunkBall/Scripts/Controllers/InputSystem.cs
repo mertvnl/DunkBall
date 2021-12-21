@@ -98,7 +98,6 @@ namespace DunkBall.InputSystems
                 }
             }
 
-            Debug.Log(swipeData.swipeVelocity);
             OnSwipe.Invoke(swipeData);
         }
 
