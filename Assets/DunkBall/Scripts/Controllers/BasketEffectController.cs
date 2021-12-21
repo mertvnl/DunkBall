@@ -7,6 +7,7 @@ namespace DunkBall.Basket
     public class BasketEffectController : MonoBehaviour
     {
         [SerializeField] private GameObject poofParticle;
+        [SerializeField] private GameObject basketParticle;
 
         private void OnEnable()
         {
@@ -20,7 +21,8 @@ namespace DunkBall.Basket
 
         private void OnBasket()
         {
-            //Basket visual effect
+            BasketParticle basket = Instantiate(basketParticle, transform.position, transform.rotation).GetComponent<BasketParticle>();
+            basket.Activate();
             StartCoroutine(PlayParticlesCo());
         }
 
