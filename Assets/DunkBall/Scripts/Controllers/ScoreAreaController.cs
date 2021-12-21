@@ -8,8 +8,13 @@ namespace DunkBall.Basket
 {
     public class ScoreAreaController : MonoBehaviour
     {
+        private bool isScored;
+
         private void OnTriggerEnter(Collider other)
         {
+            if (isScored)
+                return;
+
             BallController ball = other.GetComponentInParent<BallController>();
 
             if (ball != null)
@@ -17,6 +22,7 @@ namespace DunkBall.Basket
                 //Check if its coming from up or bottom
                 if (IsBasket(ball.Rb))
                 {
+                    isScored = true;
                     Debug.Log("Basket, nice!");
                     EventManager.OnBasketScore.Invoke();
                     GameManager.Instance.CompleteStage(true);

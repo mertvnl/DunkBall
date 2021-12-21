@@ -18,11 +18,14 @@ namespace DunkBall.Ball
 
         [SerializeField] private bool isControlable;
         [SerializeField] private float jumpPower;
+        [SerializeField] private float sideMovementMultiplier;
         [SerializeField] private Transform target;
         [SerializeField] private float h = 5f;
         [SerializeField] private float gravity = -9.81f;
         [Space]
         [SerializeField] private GameObject jumpParticlePrefab;
+
+        private bool isLaunched;
 
         private void OnEnable()
         {
@@ -43,19 +46,22 @@ namespace DunkBall.Ball
             if (!isControlable)
                 return;
 
+            if (isLaunched)
+                return;
+
             switch (swipeData.direction)
             {
                 case SwipeDirection.Up:
                     Launch(swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Down:
-                    Jump(-Camera.main.transform.forward, swipeData.swipeVelocity);
+                    SideJump(-Camera.main.transform.forward, swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Right:
-                    Jump(Camera.main.transform.right, swipeData.swipeVelocity);
+                    SideJump(Camera.main.transform.right, swipeData.swipeVelocity);
                     break;
                 case SwipeDirection.Left:
-                    Jump(-Camera.main.transform.right, swipeData.swipeVelocity);
+                    SideJump(-Camera.main.transform.right, swipeData.swipeVelocity);
                     break;
             }
         }
@@ -64,6 +70,7 @@ namespace DunkBall.Ball
         {
             Physics.gravity = Vector3.up * gravity;
             Rb.velocity = CalculateLaunchData().initialVelocity * swipeVelocity;
+            isLaunched = true;
         }
 
         LaunchData CalculateLaunchData()
@@ -90,9 +97,9 @@ namespace DunkBall.Ball
 
         }
 
-        private void Jump(Vector3 dir, float vel)
+        private void SideJump(Vector3 dir, float vel)
         {
-            Rb.AddForce(dir * jumpPower * vel);
+            Rb.AddForce(dir * jumpPower * vel * sideMovementMultiplier);
         }
 
         private void ConstantJump()
@@ -109,6 +116,7 @@ namespace DunkBall.Ball
 
             if (ground != null)
             {
+                isLaunched = false;
                 ConstantJump();
                 Instantiate(jumpParticlePrefab, new Vector3(transform.position.x, ground.transform.position.y + 0.1f, transform.position.z), jumpParticlePrefab.transform.rotation);
             }

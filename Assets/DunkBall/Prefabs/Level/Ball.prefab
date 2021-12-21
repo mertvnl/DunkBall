@@ -77,7 +77,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isControlable: 0
-  jumpPower: 100
+  jumpPower: 120
+  sideMovementMultiplier: 2
   target: {fileID: 0}
   h: 5
   gravity: -9.81
